@@ -1,3 +1,3 @@
-println("Welcome to my python program")
+print("Welcome to my python program")
 
-println("Hello World")
+print("Hello World")
